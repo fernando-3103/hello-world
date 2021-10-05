@@ -1,3 +1,3 @@
 # hello-world
 
-first change in a branch.
+first change in a repository.

@@ -1,3 +1,3 @@
 # hello-world
 
-first change in a repository.
+first steps on GitHub.
